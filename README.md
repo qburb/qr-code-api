@@ -1,6 +1,6 @@
 # qr-code-api
 
-The QR Code API by Qburb makes is extremely easy to add QR codes to your application.
+The QR Code API by Qburb makes it extremely easy to add QR codes to your application.
 
 Trusted by thousands to bring the benefits of QR code to their work, Qburb is a trusted partner
 to deliver highly available, analytics infused and editable QR codes.
@@ -14,15 +14,14 @@ and we would provision a production key for you.
 ## Documentation
 
 You can run the Qburb API in Postman to quickly understand and test
-for your use cas and programming language.
+for your use case and programming language.
    
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/2fd8b259f5d3258ae602)
 
 
 ### Why use the Qburb QR Code API ?
 1. Qburb QR codes are editable: Print once and forget it. You can 
-programmatically change the QR code link or using the Qburb dashboard.
-Enhance your application without worrying about your QR code.
+edit the QR code link programatically. Enhance your application without worrying about your QR code.
    
 2. Qburb QR codes come with analytics included: All Qburb QR codes come with
 analytics included. Analytics include, but is not limited to:
