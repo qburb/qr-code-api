@@ -16,7 +16,7 @@ and we would provision a production key for you.
 You can run the Qburb API in Postman to quickly understand and test
 for your use cas and programming language.
    
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/run-collection/:455ab1db5582302cdc39)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/2fd8b259f5d3258ae602)
 
 
 ### Why use the Qburb QR Code API ?
